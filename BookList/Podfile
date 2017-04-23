@@ -1,0 +1,25 @@
+# Uncomment this line to define a global platform for your project
+platform :ios, '8.0'
+use_frameworks!
+
+target ‘BookList’ do
+
+pod 'AFNetworking', '~> 2.6.0'
+pod 'MJRefresh', '~> 2.4.11'
+pod 'FMDB', '~> 2.5'
+pod 'Toast', '~> 2.4'
+pod 'MBProgressHUD', '~> 0.9.1'
+pod 'SDWebImage', '~> 3.7.3'    #add webimage lib
+pod 'BlocksKit', '~> 2.2.5'
+pod 'HysteriaPlayer', '~> 2.1.2'
+pod 'TMCache', '~> 2.1.0'
+pod 'Masonry', '~> 0.6.2'
+pod 'SnapKit'
+pod 'UITableView+FDTemplateLayoutCell'
+
+end
+
+
+
+
+
